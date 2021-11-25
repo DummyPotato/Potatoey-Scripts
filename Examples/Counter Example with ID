@@ -1,0 +1,12 @@
+javascript:
+var counter = 1;
+var elementID = document.getElementById('h.p_2k4mASZ0yqnP');
+function phaseOne() {
+setTimeout(phaseTwo, 10);
+}
+function phaseTwo() {
+elementID.innerHTML = 'Banned for ' + counter + ' days LOL u LOSER';
+counter = counter + 1;
+setTimeout(phaseOne, 10);
+}
+phaseOne();
