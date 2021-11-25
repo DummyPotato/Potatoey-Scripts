@@ -8,7 +8,8 @@ var puzzElement = document.getElementById('l--toolbar--puzzlescollected-puzzlesc
 var timeElement = document.getElementById('l--toolbar--puzzlescollected-sessionseconds--number');
 var nameElement = document.getElementById('kids-name');
 var puzz = currentPuzz + amountOfPuzz;
-var time = currentTime + amountOfTime;nameElement.innerHTML = 'Status: Running.';
+var time = currentTime + amountOfTime;
+nameElement.innerHTML = 'Status: Running.';
 function start() {
 puzzElement.innerHTML = puzz;
 timeElement.innerHTML = time;
