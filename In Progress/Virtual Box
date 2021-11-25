@@ -1,3 +1,7 @@
+javascript:
+
+/*Doesn't do anything yet*/
+
 console.log('User Connected To: Kali Linux 💀');
 var activateQ = confirm('Launch Virtual Box?');
 var loaded = false;
