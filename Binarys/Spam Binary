@@ -1,4 +1,7 @@
 javascript:
+
+/*How to use: Just run the code and wait five seconds*/
+
 var prevHTML = document.body.innerHTML;
 var counter = 1;
 function phaseOne() {
