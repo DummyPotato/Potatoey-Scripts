@@ -1,4 +1,7 @@
 javascript:
+
+/*How to use: Just run the code and it will run in 5 seconds and do binary every five seconds from that point on*/
+
 var prevHTML = document.body.innerHTML;
 var counter = 1;
 function phaseOne() {
