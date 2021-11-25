@@ -1,4 +1,7 @@
 javascript:
+
+/*How to use: Once you run it, just follow the questions.*/
+
 alert('Jiji Glitch Version 1.0 Launched!');
 var nameElement = document.getElementById('kids-name');
 nameElement.innerHTML='Status: Asking...';
