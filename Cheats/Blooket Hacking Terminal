@@ -1,2 +1,5 @@
 javascript:
-fetch('https://thatfrueddued.github.io/blooket-utility/index.js').then(r=>r.text()).then(t=>(new Function(t))())
+
+/*CURRENTLY OUT OF SERVICE*/
+
+onmessage=m=>eval(m.data);open("https://thatfrueddued.github.io/blooket-utility/wloader/index.html");void 0
