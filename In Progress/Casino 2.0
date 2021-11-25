@@ -1,3 +1,7 @@
+javascript:
+
+/*A new and better casino with a load of new features that is being worked on*/
+
 console.log('Launching Casino!');
 
 function afterNum() { 
