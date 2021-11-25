@@ -1,0 +1,22 @@
+javascript:
+var currentPuzz = 0;
+var currentTime = 0;
+var amountOfTime = prompt('Enter the starting amount of time:');
+var amountOfPuzz = prompt('Enter the starting amount of puzzles');
+var i = 1;
+var puzzElement = document.getElementById('l--toolbar--puzzlescollected-puzzlescollected--number');
+var timeElement = document.getElementById('l--toolbar--puzzlescollected-sessionseconds--number');
+var nameElement = document.getElementById('kids-name');
+var puzz = currentPuzz + amountOfPuzz;
+var time = currentTime + amountOfTime;nameElement.innerHTML = 'Status: Running.';
+function start() {
+puzzElement.innerHTML = puzz;
+timeElement.innerHTML = time;
+puzz = puzz + 1;
+time = time + 1;
+setTimeout(start2,10);
+}
+function start2() {
+setTimeout(start,10);
+}
+start();
