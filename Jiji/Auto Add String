@@ -1,4 +1,7 @@
 javascript:
+
+/*How to use: Once you run it, it will constantly add the string "1" for time and puzzles.*/
+
 alert('Jiji Auto Glitch Version 1.0 Launched!');
 var nameElement = document.getElementById('kids-name');
 var timeElement = document.getElementById('l--toolbar--puzzlescollected-sessionseconds--number');
