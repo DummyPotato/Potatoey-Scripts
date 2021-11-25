@@ -1,3 +1,7 @@
+javascript:
+
+/*How to use: Just run the code and if the a prompt appears then just continue playing*/
+
 /*Setup and play asker*/
 
 console.log("Launching Casino!");
