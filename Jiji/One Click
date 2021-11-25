@@ -1,4 +1,8 @@
 javascript:
+
+/*How to use: Once you run it, it will set the puzzles and time that you set. When you click it again without leaving the STmath site it will set it to the same that
+you entered. You can edit some lines where it says you can like the amount of puzzles it starts with, but dont edit anything except the number*/
+
 alert('Jiji Auto Glitch Version 1.0 Launched!');
 var nameElement = document.getElementById('kids-name');
 nameElement.innerHTML = 'Status:Loading...';
