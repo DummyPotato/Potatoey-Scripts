@@ -1,3 +1,7 @@
+javascript:
+
+/*In progress doesn't do much yet*/
+
 var calledConst = false;
 const dataTable = {percent:0};
 
