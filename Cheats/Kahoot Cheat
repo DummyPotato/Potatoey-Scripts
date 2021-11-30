@@ -5,7 +5,7 @@ for you on every question*/
 
 debugger;
 if (document.location.href.search("kahoot.it/challenge") == -1) {
-    throw new Error("Error, You aren't on a kahoot challenge.")
+    throw new Error("Error, You aren't on a kahoot challenge.");
 }
 
 let oldQuestion = '';
