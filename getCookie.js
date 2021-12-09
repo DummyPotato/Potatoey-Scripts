@@ -1,3 +1,5 @@
+var CookieName = 'COOKIE NAME HERE';
+
 function getCookie(name) {
     var cookieArr = document.cookie.split(";");
     
@@ -12,7 +14,7 @@ function getCookie(name) {
     return null;
 }
 
-var token = getCookie('Cookie Name Here');
+var token = getCookie(CookieName);
 if (token) {
 alert(token);
 }
