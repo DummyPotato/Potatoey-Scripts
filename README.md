@@ -1,6 +1,8 @@
 PLEASE READ:
 Blooket updated their API which means that hacks have to be remade. But, the amount of people who use it is like barely anything. Maybe I'll update them later when people start playing the game again. If you would like to contact me, you can do it on discord, DummyPotato#9935
 
+1/28/22 Update: Fixed only the Blooket hacks, but the better ones I did not, meaning they don't work
+
 --------------------------------------------------------------------------------------------------
 
 Please do not copy or distribute this!
